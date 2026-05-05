@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="students.xsl"?>
+
+<students>
+    <student>
+        <id>1</id>
+        <name>Shreyash</name>
+        <marks>85</marks>
+        <city>Sangli</city>
+    </student>
+
+    <student>
+        <id>2</id>
+        <name>Rahul</name>
+        <marks>72</marks>
+        <city>Pune</city>
+    </student>
+
+    <student>
+        <id>3</id>
+        <name>Priya</name>
+        <marks>90</marks>
+        <city>Mumbai</city>
+    </student>
+
+    <student>
+        <id>4</id>
+        <name>Amit</name>
+        <marks>60</marks>
+        <city>Kolhapur</city>
+    </student>
+</students>
