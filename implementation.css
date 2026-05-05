@@ -1,0 +1,36 @@
+employees {
+    display: block;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    padding: 20px;
+}
+
+employee {
+    display: block;
+    background-color: white;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid black;
+}
+
+id {
+    display: block;
+    font-weight: bold;
+    color: blue;
+}
+
+name {
+    display: block;
+    font-size: 18px;
+    color: green;
+}
+
+department {
+    display: block;
+    color: purple;
+}
+
+email {
+    display: block;
+    color: red;
+}
